@@ -1,8 +1,8 @@
 # Usage
 
 Clone this repository into ~/  
-`cd ~/  
-git clone https://github.com/elbai-codes/TerribleYes`  
+`cd ~/`  
+`git clone https://github.com/elbai-codes/TerribleYes`  
 Move into ~/TerribleYes  
 `cd ~/TerribleYes`  
 Give executable permissions to the script  
