@@ -1,7 +1,7 @@
 # TerribleYes  
 
 This is the TerribleYes utility, a less-optimized version of the already existing `yes` command in most GNU/Linux installations.  
-Unlike the `yes` command, designed in C, the TerribleYes utility is writted in `bash`. Utilizing a `while true` loop forces `bash` to check if 1 = 1 all the time, which is a waste of system resources.  
+Unlike the `yes` command, designed in C, the TerribleYes utility is writted in `bash`. Utilizing a `while true` loop forces `bash` to echo all the time, which is a waste of system resources.  
 
 # Usage
 
